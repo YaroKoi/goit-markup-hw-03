@@ -313,12 +313,13 @@ body{
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #F4F4FD;
-        margin-top: 18px;
         width: 264px;
 }
 
 .logotype-footer{
         color: #4d5ae5;
+        display: inline-block;
+        margin-bottom: 16px;
 }
 
 .footer{
