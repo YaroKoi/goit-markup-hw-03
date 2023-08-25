@@ -33,6 +33,8 @@ body{
 
 .header{
         border-bottom: 1px solid #e7e9fc;
+        padding-bottom: 24px;
+        padding-top: 24px;
 }
 
 .logotype-header{
@@ -51,15 +53,11 @@ body{
 .header-list{
         display: flex;
         gap: 40px;
-        padding-bottom: 24px;
-        padding-top: 24px;
 }
 
 .social-list{
         display: flex;
         gap: 40px;
-        padding-bottom: 24px;
-        padding-top: 24px;
 }
 
 .link{
@@ -90,6 +88,7 @@ body{
         line-height: 1.5;
         letter-spacing: 0.32px;
         list-style-type: none;
+        padding: 24px 0;
 }
 .social-link{
         font-size: 16px;
