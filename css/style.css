@@ -63,6 +63,7 @@ body{
 .link{
         text-decoration: none;
         color: #2e2f42;
+        padding: 24px 0;
 }
 
 .logotype{
@@ -88,7 +89,6 @@ body{
         line-height: 1.5;
         letter-spacing: 0.32px;
         list-style-type: none;
-        padding: 24px 0;
 }
 .social-link{
         font-size: 16px;
@@ -97,10 +97,10 @@ body{
         letter-spacing: 0.02em;
         list-style-type: none;
         color: #434455;
+        display: block;
 }
 .social-item{
         list-style-type: none;
-        padding: 24px 0;
 }
 
 .link:hover,
