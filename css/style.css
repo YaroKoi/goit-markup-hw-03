@@ -217,13 +217,14 @@ body{
 
 .team-list{
         display: flex;
-        column-gap: 24px;
+        gap: 24px;
 }
 
 .team-item{
         list-style-type: none;
         background-color: #FFFFFF;
         text-align: center;
+        border-radius: 0px 0px 4px 4px;
 }
 
 .team-title{
