@@ -159,13 +159,13 @@ body{
 /* Feature */
 
 .feature{
-        padding-top: 60px;
-        padding-bottom: 60px;
+        padding-top: 120px;
+        padding-bottom: 120px;
 }
 
 .feature-list{
         display: flex;
-        column-gap: 24px;
+        gap: 24px;
 }
 
 .feature-item{
