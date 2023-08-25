@@ -100,6 +100,7 @@ body{
 }
 .social-item{
         list-style-type: none;
+        padding: 24px 0;
 }
 
 .link:hover,
