@@ -99,8 +99,6 @@ body{
 }
 .social-item{
         list-style-type: none;
-        padding-top: 24px;
-        padding-bottom: 24px;
 }
 
 .link:hover,
@@ -110,6 +108,8 @@ body{
 .social-adress{
         font-style: normal;
         margin-left: auto;
+        padding-top: 24px;
+        padding-bottom: 24px;
 }
 
 /* Hero Image */
