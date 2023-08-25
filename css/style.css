@@ -257,8 +257,10 @@ body{
 
 /* Portfolio */
 
-.portfolio-img{
-        margin-bottom: 32px;
+.portfolio-container{
+        padding: 32px 16px;
+        border: 1px solid #e7e9fc;
+        border-top: none;
 }
 
 .portfolio{
@@ -269,6 +271,8 @@ body{
 .portfolio-list{
         display: flex;
         column-gap: 24px;
+        flex-wrap: wrap;
+        row-gap: 48px;
 }
 
 .portfolio-item{
